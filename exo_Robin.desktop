@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=AudioVideo;Player;Audio;
+Exec=exo
+Icon=/usr/share/icons/exo32.png
+Terminal=false
+Type=Application
+
+Name=Exo-MOC
+Name[pt_BR]=Reprodutor de Multimídia Exo-MOC
+
+Comment=Multimedia Player
+Comment[pt_BR]=Reprodutor de Multimídia
+
+GenericName=Audio player
+GenericName[pt_BR]=Interface gráfica para o reprodutor de áudio MOC
