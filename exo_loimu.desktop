@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Qt;Audio;AudioVideo;
+Exec=/usr/bin/exo
+Icon=exo
+StartupNotify=true
+Terminal=false
+Type=Application
+
+Name=eXo
+Name[pt_BR]=Reprodutor de Multimídia eXo
+
+GenericName=Audio player
+GenericName[pt_BR]=Reprodutor de Multimídia
+
+Comment=exoskeleton (GUI) for moc player
+Comment[pt_BR]=Interface gráfica para o reprodutor de áudio MOC
